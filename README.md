@@ -1,2 +1,2 @@
-# Sistemas-de-Informacao
+# Sistemas de Informação
  Arquivos do curso
